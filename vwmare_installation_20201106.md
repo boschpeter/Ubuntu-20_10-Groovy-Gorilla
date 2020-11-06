@@ -1,13 +1,14 @@
 
 
 
-## sudo apt-get install sshpass
-
-## ssh-copy-id -i ~/.ssh/id_rsa.pub boscp08@192.168.2.14
-
-## ssh-keygen -R 192.168.2.14
 
 ## sudo apt install openssh-server
+
+````
+sudo apt-get install sshpass
+ssh-copy-id -i ~/.ssh/id_rsa.pub boscp08@192.168.2.14
+ssh-keygen -R 192.168.2.14
+````
 
 [how-to-install-open ssh server](https://www.cyberciti.biz/faq/ubuntu-linux-install-openssh-server/)
 

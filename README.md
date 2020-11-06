@@ -1,6 +1,5 @@
 # Ubuntu-20_10-Groovy-Gorilla
-
-
+here we go?
 
 [https://www.omgubuntu.co.uk/2020/05/ubuntu-20-10-release-features|ubuntu-20-10-release-features]
 

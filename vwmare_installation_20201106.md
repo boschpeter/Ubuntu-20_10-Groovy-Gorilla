@@ -1,6 +1,9 @@
 
 
+## ansible-playbook site.yml -i hosts 
 
+
+## sudo apt-get install sshpass
 
 ## ssh-copy-id -i ~/.ssh/id_rsa.pub boscp08@192.168.2.14
 

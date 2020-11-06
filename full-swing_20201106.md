@@ -1,10 +1,9 @@
 
 
-/socialcoin-api/npm start
+## socialcoin-api/npm start
 
 ![tt](.//pictures/full-swing_20201106_00.png)
 ![tt](.//pictures/full-swing_20201106_01.png)
-![tt](.//pictures/full-swing_20201106_02.png)
 ![tt](.//pictures/full-swing_20201106_03.png)
 ![tt](.//pictures/full-swing_20201106_04.png)
 ![tt](.//pictures/full-swing_20201106_05.png)

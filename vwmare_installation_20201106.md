@@ -1,7 +1,5 @@
 
 
-## ansible-playbook site.yml -i hosts 
-
 
 ## sudo apt-get install sshpass
 
@@ -21,11 +19,6 @@ sudo apt install openssh-server
 sudo systemctl status ssh
 
 ````
-
-
-
-
-
 
 ![tt](.//pictures/vmware_installatie_20201106_00.png)
 ![tt](.//pictures/vmware_installatie_20201106_01.png)

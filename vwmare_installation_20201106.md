@@ -2,6 +2,28 @@
 
 
 
+## ssh-copy-id -i ~/.ssh/id_rsa.pub boscp08@192.168.2.14
+
+## ssh-keygen -R 192.168.2.14
+
+## sudo apt install openssh-server
+
+[how-to-install-open ssh server](https://www.cyberciti.biz/faq/ubuntu-linux-install-openssh-server/)
+
+````
+sudo systemctl status ssh
+sudo apt update
+sudo apt upgrade
+sudo apt install openssh-server
+sudo systemctl status ssh
+
+````
+
+
+
+
+
+
 ![tt](.//pictures/vmware_installatie_20201106_00.png)
 ![tt](.//pictures/vmware_installatie_20201106_01.png)
 ![tt](.//pictures/vmware_installatie_20201106_02.png)

@@ -1,7 +1,24 @@
 ## VMware Workstation 15.5.6 Player for Linux 64-bit VMware-Workstation-Full-15.5.6-16341506.x86_64.bundle
 
+## VMware Workstation Player installeren op Ubuntu
+VMware is een virtualisatietoepassing die wordt gebruikt om virtuele machines te maken en uit te voeren. Het wordt meestal gebruikt in de werkomgeving. Thuisgebruikers kunnen een persoonlijke licentieversie gebruiken die gratis te gebruiken is.
 
+Mware Workstation Player is een van de meest gebruikte virtualisatie-desktoptoepassingen die u kunt gebruiken om virtuele machines te maken. In tegenstelling tot VirtualBox is het geen open-source applicatie maar wordt het vooral gebruikt in de werkomgeving.
+In deze handleiding zullen we u helpen bij het installeren van de VMware Workstation Player op een Ubuntu-machine. De persoonlijke versie is gratis voor niet-commercieel gebruik, maar maakt u zich geen zorgen, deze bevat dezelfde functies als de betaalde zakelijke versie.
 Run a Second, Isolated Operating System on a Single PC with VMware Workstation Player VMware Workstation Player allows you to run a second, isolated operating system on a single PC. 
+
+````
+Installing VMware Player on Ubuntu
+To begin with, let’s update your Ubuntu PC. Launch the Terminal app and fire the following commands in it.
+
+sudo apt update
+sudo apt upgrade
+Step 1. We need to install the prerequisites: gcc package and build-essential for Ubuntu.
+
+sudo apt install build-essential
+````
+
+
 
 With many uses ranging from a personal educational tool, to a business tool for providing a simplified experience to run a corporate desktop on a BYO device, Workstation Player leverages the VMware vSphere hypervisor to provide a simple yet mature and stable, local virtualization solution.
 boscp08@kubernetes-worker2:~/.../VmWare$ chmod a+x VMware-Workstation-Full-15.5.2-15785246.x86_64.bundle 

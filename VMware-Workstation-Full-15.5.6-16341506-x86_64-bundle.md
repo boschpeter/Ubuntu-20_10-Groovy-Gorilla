@@ -24,7 +24,7 @@ Enjoy!
  Number: 1151152601 License Key **5M43Q-....-.....-....-A54JJ** |
  
 
-![tt](.//pictures/VMware-Workstation-Full-15.5.6-16341506-x86_64-bundle_00.png
-![tt](.//pictures/VMware-Workstation-Full-15.5.6-16341506-x86_64-bundle_01.png
-![tt](.//pictures/VMware-Workstation-Full-15.5.6-16341506-x86_64-bundle_02.png
-![tt](.//pictures/VMware-Workstation-Full-15.5.6-16341506-x86_64-bundle_03.png
+![tt](.//pictures/VMware-Workstation-Full-15.5.6-16341506-x86_64-bundle_00.png)
+![tt](.//pictures/VMware-Workstation-Full-15.5.6-16341506-x86_64-bundle_01.png)
+![tt](.//pictures/VMware-Workstation-Full-15.5.6-16341506-x86_64-bundle_02.png)
+![tt](.//pictures/VMware-Workstation-Full-15.5.6-16341506-x86_64-bundle_03.png)

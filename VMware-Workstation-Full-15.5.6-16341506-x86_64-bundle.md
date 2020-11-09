@@ -37,7 +37,7 @@ https://www.solaris-cookbook.eu/linux/ubuntu-how-to-uninstall-vmware-player-or-v
 ````
 
 
-
+````
 boscp08@kubernetes-worker2:~/.../VmWare$ chmod a+x VMware-Workstation-Full-15.5.2-15785246.x86_64.bundle 
 boscp08@kubernetes-worker2:~/.../VmWare$ sudo ./VMware-Workstation-Full-15.5.2-15785246.x86_64.bundle 
 [sudo] password for boscp08: 
@@ -49,7 +49,7 @@ Installing VMware VMX 15.5.2
 Installation was successful.
 
 /var/lib/vmware/Shared VMs
-
+````
 
 ![tt](.//pictures/VMware-Workstation-Full-15.5.6-16341506-x86_64-bundle_00.png)
 ![tt](.//pictures/VMware-Workstation-Full-15.5.6-16341506-x86_64-bundle_01.png)

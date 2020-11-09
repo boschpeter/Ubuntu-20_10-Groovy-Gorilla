@@ -18,7 +18,17 @@ Step 1. We need to install the prerequisites: gcc package and build-essential fo
 sudo apt install build-essential
 ````
 
+## workstation-player-evaluation.html
 
+
+
+````
+cd downloads
+chmod +x VMware*
+
+https://www.solaris-cookbook.eu/linux/ubuntu-how-to-uninstall-vmware-player-or-vmware-workstation/
+
+````
 
 With many uses ranging from a personal educational tool, to a business tool for providing a simplified experience to run a corporate desktop on a BYO device, Workstation Player leverages the VMware vSphere hypervisor to provide a simple yet mature and stable, local virtualization solution.
 boscp08@kubernetes-worker2:~/.../VmWare$ chmod a+x VMware-Workstation-Full-15.5.2-15785246.x86_64.bundle 

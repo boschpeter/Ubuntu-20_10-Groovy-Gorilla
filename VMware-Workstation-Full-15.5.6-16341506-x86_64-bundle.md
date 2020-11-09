@@ -1,4 +1,6 @@
-## VMware Workstation 15.5.6 Player for Linux 64-bit VMware-Workstation-Full-15.5.6-16341506.x86_64.bundle
+## VMware Workstation 15.5.6 Player for Linux 64-bit VMware-Player-16.0.0-16894299.x86_64.bundle
+
+issue met  VMware-Workstation-Full-15.5.6-16341506.x86_64.bundle
 
 Thank you for buying VMware Workstation 15!
 VMware Workstation 15 is the most advanced virtualization software that supports the broadest number of operating systems and delivers the richest desktop user experience. We believe that you will find VMware Workstation 15 to be an indispensable application that improves your productivity and becomes crucial to running your business.
